@@ -1,9 +1,4 @@
-* Author:小y
-* 公众号:关注安全技术
-![image](https://github.com/xiaoy-sec/Pentest_Note/blob/master/img/wechat.png)
-# Pentest_Note
-### 在家无聊总结的，后续会慢慢更新。
-### 转载请随意，记得加from
+from  https://github.com/xiaoy-sec/Pentest_Note
 - [信息收集](#信息收集)
 	- [Whois](#whois)
 	- [网站IP](#网站ip)
